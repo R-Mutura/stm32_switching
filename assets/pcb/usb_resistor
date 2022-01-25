@@ -1,0 +1,80 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>D:\bhaskar\tdcs\transition_to_individual_repos\ac_32x1_stackable\pcb\main_stackable_32_v1\main_stackable_32_v1.sch</h1>
+    <p>2/9/2021 2:54:27 PM</p>
+    <p>Eeschema (5.1.7)-1</p>
+    <p><b>Component Count:</b>112</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>3.3V1</td><td>1</td><td>TEST</td><td>main_eth_32_v4-rescue:TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit</td><td></td><td></td></tr>
+    <tr><td>5V1, 30V1</td><td>2</td><td>test</td><td>main_eth_32_v4-rescue:TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit</td><td></td><td></td></tr>
+    <tr><td>BOOT0, BOOT1</td><td>2</td><td>CONN_01X02</td><td>main_eth_32_v4-rescue:CONN_01X02-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>C1, C4</td><td>2</td><td>22pf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C2, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C50, C51</td><td>13</td><td>0.1uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C3, C20, C22, C23, C36</td><td>5</td><td>10uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C5, C6, C21</td><td>3</td><td>2.2uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C17</td><td>1</td><td>100nF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C18, C32</td><td>2</td><td>4.7uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C19</td><td>1</td><td>47uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C24, C29, C30, C31, C35, C38</td><td>6</td><td>1uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C25</td><td>1</td><td>47nF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C26</td><td>1</td><td>33nF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C27</td><td>1</td><td>10uF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:CP_Elec_5x5.9</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C28</td><td>1</td><td>2.2uF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C33</td><td>1</td><td>a680pF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C34</td><td>1</td><td>10nF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C37</td><td>1</td><td>4.7pF</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>C39, C40</td><td>2</td><td>0.1uf</td><td>Device:CP1_Small</td><td>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</td><td>Polarized capacitor, small US symbol</td><td></td></tr>
+    <tr><td>D1, D2</td><td>2</td><td>D_Schottky</td><td>Device:D_Schottky</td><td>Diode_SMD:D_PowerDI-123</td><td>Schottky diode</td><td></td></tr>
+    <tr><td>D3</td><td>1</td><td>LED</td><td>Device:LED</td><td>LED_THT:LED_D5.0mm</td><td>Light emitting diode</td><td></td></tr>
+    <tr><td>D4</td><td>1</td><td>IP4220CZ6_125</td><td>dk_TVS-Diodes:IP4220CZ6_125</td><td>Package_SO:SC-74-6_1.5x2.9mm_P0.95mm</td><td>TVS DIODE 5.5V 6TSOP</td><td></td></tr>
+    <tr><td>D5</td><td>1</td><td>LED</td><td>Device:LED</td><td>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</td><td>Light emitting diode</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>USB_C_Receptacle</td><td>main_eth_32_v4-rescue:USB_C_Receptacle-Connector-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>custom_footprints:Wurth-632723300011-HandSoldering-Renum</td><td></td><td></td></tr>
+    <tr><td>J2</td><td>1</td><td>Conn_01x06</td><td>Connector_Generic:Conn_01x06</td><td>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</td><td>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J3, J4, J5, J6, J7, J8, J9, J10</td><td>8</td><td>Conn_02x07_Odd_Even</td><td>Connector_Generic:Conn_02x07_Odd_Even</td><td>Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical</td><td>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J11</td><td>1</td><td>Conn_01x04</td><td>Connector_Generic:Conn_01x04</td><td>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</td><td>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J12, J13</td><td>2</td><td>Conn_Coaxial</td><td>Connector:Conn_Coaxial</td><td>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</td><td>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</td><td></td></tr>
+    <tr><td>L1</td><td>1</td><td>3.3uh</td><td>main_eth_32_v4-rescue:INDUCTOR-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Inductor_SMD:L_Neosid_SM-PIC0602H</td><td></td><td></td></tr>
+    <tr><td>L2</td><td>1</td><td>FB</td><td>Device:Ferrite_Bead_Small</td><td>Inductors_SMD:L_0805_HandSoldering</td><td>Ferrite bead, small symbol</td><td></td></tr>
+    <tr><td>L4</td><td>1</td><td>18uH</td><td>main_eth_32_v4-rescue:INDUCTOR-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Inductor_SMD:L_12x12mm_H6mm</td><td></td><td></td></tr>
+    <tr><td>N3V1, N30V1</td><td>2</td><td>test</td><td>main_eth_32_v4-rescue:TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Connectors:PINTST</td><td></td><td></td></tr>
+    <tr><td>P2</td><td>1</td><td>SWD</td><td>main_eth_32_v4-rescue:CONN_01X06-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Socket_Strips:Socket_Strip_Straight_1x06</td><td></td><td></td></tr>
+    <tr><td>R1</td><td>1</td><td>10k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R2, R3</td><td>2</td><td>5.1k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R4, R5, R12</td><td>3</td><td>1k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R6, R7, R8, R9, R10, R23</td><td>6</td><td>0</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R11</td><td>1</td><td>32.5k</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R13</td><td>1</td><td>5.23K</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R14</td><td>1</td><td>86.6K</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R15</td><td>1</td><td>383K</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R16</td><td>1</td><td>16.2K</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R17</td><td>1</td><td>a36.5K</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R18</td><td>1</td><td>20K</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R19</td><td>1</td><td>1Meg</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R20</td><td>1</td><td>27.4k</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>R21</td><td>1</td><td>10K</td><td>Device:R</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor</td><td></td></tr>
+    <tr><td>R22</td><td>1</td><td>3k 1%</td><td>Device:R_Small</td><td>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</td><td>Resistor, small symbol</td><td></td></tr>
+    <tr><td>SW1</td><td>1</td><td>SW_MOM_RST</td><td>custom_precidyne:SW_MOM_RST</td><td>Buttons_Switches_THT:SW_TH_Tactile_Omron_B3F-10xx</td><td></td><td></td></tr>
+    <tr><td>SW2</td><td>1</td><td>SW_DIP_x04</td><td>Switch:SW_DIP_x04</td><td>Button_Switch_SMD:SW_DIP_SPSTx04_Slide_Omron_A6S-410x_W8.9mm_P2.54mm</td><td>4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</td><td></td></tr>
+    <tr><td>T1</td><td>1</td><td>Coupled_Inductor</td><td>custom_precidyne:Coupled_Inductor</td><td>Choke_SMD:Choke_Double_SMD_Wuerth-WE-DD-Typ-L-Typ-XL-Typ-XXL</td><td>Transformer, single primary, single secondary</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>TPS561208</td><td>main_eth_32_v4-rescue:TPS561208-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</td><td></td><td></td></tr>
+    <tr><td>U2</td><td>1</td><td>TPS61175</td><td>main_eth_32_v4-rescue:TPS61175-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>custom_thermal_sops:TSSOP-14-1EP_4.4x5mm_Pitch0.65mm_HandSolder</td><td></td><td></td></tr>
+    <tr><td>U3</td><td>1</td><td>LTC1983-3</td><td>custom_precidyne:LTC1983-3</td><td>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</td><td></td><td></td></tr>
+    <tr><td>U4</td><td>1</td><td>STM32F723ZETx</td><td>MCU_ST_STM32F7:STM32F723ZETx</td><td>Package_QFP:LQFP-144_20x20mm_P0.5mm</td><td>ARM Cortex-M7 MCU, 512KB flash, 192KB RAM, 216MHz, 1.7-3.6V, 112 GPIO, LQFP-144</td><td></td></tr>
+    <tr><td>U5</td><td>1</td><td>LT8362</td><td>custom_precidyne:LT8362</td><td>custom_thermal_sops:MSOP-16-1EP-VIA_3x4mm_Pitch0.5mm_Handsolder</td><td></td><td></td></tr>
+    <tr><td>U6, U10</td><td>2</td><td>5PB1104</td><td>custom_precidyne:5PB1104</td><td>Package_SO:TSSOP-8_4.4x3mm_P0.65mm</td><td></td><td></td></tr>
+    <tr><td>U7</td><td>1</td><td>ISO7320FC</td><td>Isolator:ISO7320FC</td><td>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</td><td>Low Power Dual-Channel 2/0 Digital Isolator, 25Mbps 33ns, Fail-Safe Low, SO8</td><td></td></tr>
+    <tr><td>U8, U9</td><td>2</td><td>5PB1104</td><td>custom_precidyne:5PB1104</td><td>Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm</td><td></td><td></td></tr>
+    <tr><td>W1, W2, W3, W4</td><td>4</td><td>MTH</td><td>main_eth_32_v4-rescue:TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue</td><td>MountingHole:MountingHole_3.2mm_M3_Pad_Via</td><td></td><td></td></tr>
+    <tr><td>Y1</td><td>1</td><td>24mhz</td><td>Device:Crystal</td><td>Crystal:Crystal_HC49-U_Vertical</td><td>Two pin crystal</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

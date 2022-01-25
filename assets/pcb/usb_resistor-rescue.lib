@@ -1,0 +1,284 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CONN_01X02-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF CONN_01X02-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue J 0 40 Y N 1 F N
+F0 "J" 0 150 50 H V C CNN
+F1 "CONN_01X02-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 100 0 50 V V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Pin_Header_Straight_1X*
+ Pin_Header_Angled_1X*
+ Socket_Strip_Straight_1X*
+ Socket_Strip_Angled_1X*
+$ENDFPLIST
+DRAW
+S -50 -45 10 -55 0 1 0 N
+S -50 55 10 45 0 1 0 N
+S -50 100 50 -100 0 1 0 N
+X P1 1 -200 50 150 R 50 50 1 1 P
+X P2 2 -200 -50 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CONN_01X06-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF CONN_01X06-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue J 0 40 Y N 1 F N
+F0 "J" 0 350 50 H V C CNN
+F1 "CONN_01X06-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 100 0 50 V V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Pin_Header_Straight_1X*
+ Pin_Header_Angled_1X*
+ Socket_Strip_Straight_1X*
+ Socket_Strip_Angled_1X*
+$ENDFPLIST
+DRAW
+S -50 -245 10 -255 0 1 0 N
+S -50 -145 10 -155 0 1 0 N
+S -50 -45 10 -55 0 1 0 N
+S -50 55 10 45 0 1 0 N
+S -50 155 10 145 0 1 0 N
+S -50 255 10 245 0 1 0 N
+S -50 300 50 -300 0 1 0 N
+X P1 1 -200 250 150 R 50 50 1 1 P
+X P2 2 -200 150 150 R 50 50 1 1 P
+X P3 3 -200 50 150 R 50 50 1 1 P
+X P4 4 -200 -50 150 R 50 50 1 1 P
+X P5 5 -200 -150 150 R 50 50 1 1 P
+X P6 6 -200 -250 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# INDUCTOR-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF INDUCTOR-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue L 0 0 N Y 1 F N
+F0 "L" 0 100 50 H V C CNN
+F1 "INDUCTOR-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 0 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X 1 1 -250 0 50 R 30 30 1 1 I
+X 2 2 250 0 50 L 30 30 1 1 I
+ENDDRAW
+ENDDEF
+#
+# IP4220CZ6_125-dk_TVS-Diodes
+#
+DEF IP4220CZ6_125-dk_TVS-Diodes D 0 0 Y Y 1 F N
+F0 "D" -278 294 60 H V L CNN
+F1 "IP4220CZ6_125-dk_TVS-Diodes" 2 -510 60 H V C CNN
+F2 "digikey-footprints:SC-74" 200 200 60 H I L CNN
+F3 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 200 300 60 H I L CNN
+F4 "1727-3578-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "IP4220CZ6,125" 200 500 60 H I L CNN "MPN"
+F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
+F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
+F8 "https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nexperia-usa-inc/IP4220CZ6,125/1727-3578-1-ND/1133548" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "TVS DIODE 5.5V 6TSOP" 200 1000 60 H I L CNN "Description"
+F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -250 -225 10 0 1 0 F
+C -250 -100 10 0 1 0 F
+C -250 25 10 0 1 0 F
+C -50 -375 10 0 1 0 F
+C -50 175 10 0 1 0 F
+C 50 -225 10 0 1 0 F
+C 50 25 10 0 1 0 F
+C 250 -225 10 0 1 0 F
+C 250 -100 10 0 1 0 F
+C 250 25 10 0 1 0 F
+S -278 246 282 -452 0 1 0 f
+P 2 0 1 0 -250 -375 -250 175 N
+P 2 0 1 0 -250 -375 250 -375 N
+P 2 0 1 0 -250 25 250 25 N
+P 2 0 1 0 -250 175 250 175 N
+P 2 0 1 0 -100 -325 -100 -425 N
+P 2 0 1 0 -100 -175 -100 -275 N
+P 2 0 1 0 -100 75 -100 -25 N
+P 2 0 1 0 -100 225 -100 125 N
+P 2 0 1 0 -50 -350 -50 -375 N
+P 2 0 1 0 -50 -100 -300 -100 N
+P 2 0 1 0 -50 -100 50 -100 N
+P 2 0 1 0 -50 150 -50 175 N
+P 2 0 1 0 50 -225 50 -250 N
+P 2 0 1 0 50 -150 25 -150 N
+P 2 0 1 0 50 -100 300 -100 N
+P 2 0 1 0 50 -50 50 -150 N
+P 2 0 1 0 50 25 50 50 N
+P 2 0 1 0 200 -325 200 -425 N
+P 2 0 1 0 200 -175 200 -275 N
+P 2 0 1 0 200 75 200 -25 N
+P 2 0 1 0 200 225 200 125 N
+P 2 0 1 0 250 -225 -250 -225 N
+P 2 0 1 0 250 175 250 -375 N
+P 3 0 1 0 -50 -350 -50 -300 -300 -300 N
+P 3 0 1 0 -50 150 -50 100 -300 100 N
+P 3 0 1 0 50 50 50 100 300 100 N
+P 3 0 1 0 300 -300 50 -300 50 -250 N
+P 4 0 1 0 -200 -325 -200 -425 -100 -375 -200 -325 F
+P 4 0 1 0 -200 -175 -200 -275 -100 -225 -200 -175 F
+P 4 0 1 0 -200 75 -200 -25 -100 25 -200 75 F
+P 4 0 1 0 -200 225 -200 125 -100 175 -200 225 F
+P 4 0 1 0 -50 -50 -50 -150 50 -100 -50 -50 F
+P 4 0 1 0 100 -325 100 -425 200 -375 100 -325 F
+P 4 0 1 0 100 75 100 -25 200 25 100 75 F
+P 4 0 1 0 200 -225 100 -175 100 -275 200 -225 F
+P 4 0 1 0 200 175 100 225 100 125 200 175 F
+X I/O_1 1 -500 100 200 R 50 50 1 1 P
+X GND 2 -500 -100 200 R 50 50 1 1 W
+X I/O_2 3 -500 -300 200 R 50 50 1 1 P
+X I/O_3 4 500 -300 200 L 50 50 1 1 P
+X VP 5 500 -100 200 L 50 50 1 1 W
+X I/O_4 6 500 100 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue TP 0 40 N N 1 F N
+F0 "TP" 0 300 50 H V C BNN
+F1 "TEST-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 0 250 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 200 -50 150 0 100 50 150 0 200 0 200 N
+X ~ 1 0 0 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TPS561208-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF TPS561208-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue U 0 40 Y Y 1 F N
+F0 "U" 600 350 60 H V C CNN
+F1 "TPS561208-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 550 0 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 250 300 900 -300 0 1 0 f
+X GND 1 50 200 200 R 50 50 1 1 W
+X SW 2 50 -100 200 R 50 50 1 1 w
+X VIN 3 50 -250 200 R 50 50 1 1 W
+X VFB 4 1100 -250 200 L 50 50 1 1 I
+X EN 5 1100 -100 200 L 50 50 1 1 I
+X VBST 6 1100 200 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# TPS61175-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF TPS61175-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue U 0 40 Y Y 1 F N
+F0 "U" -50 700 60 H V C CNN
+F1 "TPS61175-main_usb_32_v4-rescue-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 0 0 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -350 650 350 -600 0 1 0 f
+X SW 1 -650 600 300 R 50 50 1 1 I
+X FREQ 10 650 -100 300 L 50 50 1 1 I
+X NC 11 650 300 300 L 50 50 1 1 W
+X PGND 12 650 400 300 L 50 50 1 1 W
+X PGND 13 650 500 300 L 50 50 1 1 W
+X PGND 14 650 600 300 L 50 50 1 1 W
+X PGND 15 0 -900 300 U 50 50 1 1 W
+X SW 2 -650 500 300 R 50 50 1 1 I
+X VIN 3 -650 400 300 R 50 50 1 1 W
+X EN 4 -650 300 300 R 50 50 1 1 I
+X SS 5 -650 -100 300 R 50 50 1 1 O
+X SYNC 6 -650 -200 300 R 50 50 1 1 I
+X AGND 7 -650 -300 300 R 50 50 1 1 W
+X COMP 8 650 -300 300 L 50 50 1 1 O
+X FB 9 650 -200 300 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# USB_C_Receptacle-Connector-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue
+#
+DEF USB_C_Receptacle-Connector-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue J 0 40 Y Y 1 F N
+F0 "J" -400 1450 50 H V L CNN
+F1 "USB_C_Receptacle-Connector-main_eth_32_v2-rescue-main_eth_32_v3-rescue-main_eth_32_v4-rescue" 400 1450 50 H V R CNN
+F2 "" 150 0 50 H I C CNN
+F3 "" 150 0 50 H I C CNN
+$FPLIST
+ USB*C*Receptacle*
+$ENDFPLIST
+DRAW
+A -275 -150 75 -1799 -1 0 1 20 N -350 -150 -200 -150
+A -275 -150 25 -1799 -1 0 1 10 N -300 -150 -250 -150
+A -275 -150 25 -1799 -1 0 1 10 F -300 -150 -250 -150
+A -275 150 25 1 1799 0 1 10 F -250 150 -300 150
+A -275 150 25 1 1799 0 1 10 N -250 150 -300 150
+A -275 150 75 1 1799 0 1 20 N -200 150 -350 150
+C -130 175 25 0 1 10 F
+T 900 -30 -175 200 0 0 0 SS Italic 1 C C
+S -210 -1400 -190 -1360 0 0 0 N
+S -110 -1400 -90 -1360 0 0 0 N
+S -10 -1400 10 -1360 0 0 0 N
+S 90 -1400 110 -1360 0 0 0 N
+S 400 -1290 360 -1310 0 0 0 N
+S 400 -1190 360 -1210 0 0 0 N
+S 400 -990 360 -1010 0 0 0 N
+S 400 -890 360 -910 0 0 0 N
+S 400 -690 360 -710 0 0 0 N
+S 400 -590 360 -610 0 0 0 N
+S 400 -390 360 -410 0 0 0 N
+S 400 -290 360 -310 0 0 0 N
+S 400 -90 360 -110 0 0 0 N
+S 400 10 360 -10 0 0 0 N
+S 400 210 360 190 0 0 0 N
+S 400 310 360 290 0 0 0 N
+S 400 410 360 390 0 0 0 N
+S 400 510 360 490 0 0 0 N
+S 400 710 360 690 0 0 0 N
+S 400 810 360 790 0 0 0 N
+S 400 1010 360 990 0 0 0 N
+S 400 1110 360 1090 0 0 0 N
+S 400 1210 360 1190 0 0 0 N
+S 400 1310 360 1290 0 0 0 N
+S -400 1400 400 -1400 0 1 10 f
+S -300 -150 -250 150 0 1 10 F
+S 45 200 95 250 0 1 10 F
+P 2 0 1 20 -350 -150 -350 150 N
+P 2 0 1 20 -200 150 -200 -150 N
+P 2 0 1 20 -30 -50 -30 300 N
+P 3 0 1 20 -30 0 -130 100 -130 150 N
+P 3 0 1 20 -30 50 70 150 70 200 N
+P 4 0 1 10 -80 300 -30 400 20 300 -80 300 F
+X GND A1 -200 -1600 200 U 50 50 1 1 W
+X RX2- A10 600 -600 200 L 50 50 1 1 B
+X RX2+ A11 600 -700 200 L 50 50 1 1 B
+X GND A12 -100 -1600 200 U 50 50 1 1 W
+X TX1+ A2 600 -400 200 L 50 50 1 1 B
+X TX1- A3 600 -300 200 L 50 50 1 1 B
+X VBUS A4 600 1300 200 L 50 50 1 1 W
+X CC1 A5 600 800 200 L 50 50 1 1 B
+X D+ A6 600 300 200 L 50 50 1 1 B
+X D- A7 600 500 200 L 50 50 1 1 B
+X SBU1 A8 600 -1200 200 L 50 50 1 1 B
+X VBUS A9 600 1200 200 L 50 50 1 1 W
+X GND B1 0 -1600 200 U 50 50 1 1 W
+X RX1- B10 600 0 200 L 50 50 1 1 B
+X RX1+ B11 600 -100 200 L 50 50 1 1 B
+X GND B12 100 -1600 200 U 50 50 1 1 W
+X TX2+ B2 600 -1000 200 L 50 50 1 1 B
+X TX2- B3 600 -900 200 L 50 50 1 1 B
+X VBUS B4 600 1100 200 L 50 50 1 1 W
+X CC2 B5 600 700 200 L 50 50 1 1 B
+X D+ B6 600 200 200 L 50 50 1 1 B
+X D- B7 600 400 200 L 50 50 1 1 B
+X SBU2 B8 600 -1300 200 L 50 50 1 1 B
+X VBUS B9 600 1000 200 L 50 50 1 1 W
+X SHIELD S1 -300 -1600 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

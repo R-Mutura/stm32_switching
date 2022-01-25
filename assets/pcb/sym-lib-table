@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom_precidyne)(type Legacy)(uri D:/bhaskar/tdcs/git_clone/TDCS/kicad_libs/custom_symbols/custom_precidyne_k5.lib)(options "")(descr ""))
+  (lib (name main_stackable_32_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/usb_resistor-rescue.lib)(options "")(descr ""))
+)

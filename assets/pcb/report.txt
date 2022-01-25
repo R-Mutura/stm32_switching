@@ -1,0 +1,223 @@
+Info: Checking netlist symbol footprint "R8:/61BD4273:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "P2:/5891B565:Socket_Strips:Socket_Strip_Straight_1x06".
+Info: Checking netlist symbol footprint "R1:/589180C4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R2:/5C6CAA5B:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R3:/5C6CAF79:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R4:/5C0F66B9:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R5:/5C1AAD44:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R6:/61BD4049:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R7:/61E37393:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "N3V1:/5AA92F35:Connectors:PINTST".
+Info: Checking netlist symbol footprint "R9:/61E37399:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R10:/61BD44D6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R11:/5CF8D8B2:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R12:/5986A1B0:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R13:/5A463B3F:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R14:/5A45B2A7:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R15:/5A473B17:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "J10:/597C6719/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J2:/61454BDB:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J3:/58930539/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J4:/58950923/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J5:/5977BF01/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J6:/5977BF95/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J7:/597AC45C/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J8:/597AC4F0/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J9:/597C6685/5CFFA9EF:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "R16:/5A47534E:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "J11:/61458A77:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J12:/5F9FD5BE:Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal".
+Info: Checking netlist symbol footprint "J13:/5F89FAFF:Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal".
+Info: Checking netlist symbol footprint "L1:/5CF8D8A6:Inductor_SMD:L_Neosid_SM-PIC0602H".
+Info: Checking netlist symbol footprint "L2:/5891731F:Inductors_SMD:L_0805_HandSoldering".
+Info: Checking netlist symbol footprint "L4:/5A451A95:Inductor_SMD:L_12x12mm_H6mm".
+Info: Checking netlist symbol footprint "N30V1:/5AA7E5C0:Connectors:PINTST".
+Info: Checking netlist symbol footprint "W6:/58950923/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "U8:/5AABF6D2:Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm".
+Info: Checking netlist symbol footprint "U9:/5AAE9349:Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm".
+Info: Checking netlist symbol footprint "U10:/617965AB:Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm".
+Info: Checking netlist symbol footprint "W1:/5897AB25:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W2:/5897AD76:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W3:/5897AF9B:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W4:/5897B1B8:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W5:/58930539/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "U7:/5F5E685B:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Info: Checking netlist symbol footprint "W7:/5977BF01/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W8:/5977BF95/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W9:/597AC45C/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W10:/597AC4F0/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W11:/597C6685/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "W12:/597C6719/5D218451:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Info: Checking netlist symbol footprint "Y1:/58918BB8:Crystal:Crystal_HC49-U_Vertical".
+Info: Checking netlist symbol footprint "R17:/5A388AC6:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "U6:/60F380AE:Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm".
+Info: Checking netlist symbol footprint "U5:/5A36C77F:custom_thermal_sops:MSOP-16-1EP-VIA_3x4mm_Pitch0.5mm_Handsolder".
+Info: Checking netlist symbol footprint "U4:/5D02A06A:Package_QFP:LQFP-144_20x20mm_P0.5mm".
+Info: Checking netlist symbol footprint "U3:/59755AC9:Package_TO_SOT_SMD:SOT-23-6_Handsoldering".
+Info: Checking netlist symbol footprint "U2:/5A40C8C7:custom_thermal_sops:TSSOP-14-1EP_4.4x5mm_Pitch0.65mm_HandSolder".
+Info: Checking netlist symbol footprint "U1:/5CF8D8BE:Package_TO_SOT_SMD:SOT-23-6_Handsoldering".
+Info: Checking netlist symbol footprint "T1:/5A3B4E67:Choke_SMD:Choke_Double_SMD_Wuerth-WE-DD-Typ-L-Typ-XL-Typ-XXL".
+Info: Checking netlist symbol footprint "SW2:/60C4A571:Button_Switch_SMD:SW_DIP_SPSTx04_Slide_Omron_A6S-410x_W8.9mm_P2.54mm".
+Info: Checking netlist symbol footprint "SW1:/58918612:Buttons_Switches_THT:SW_TH_Tactile_Omron_B3F-10xx".
+Info: Checking netlist symbol footprint "R23:/61E3739F:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R22:/5DE60B86:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R21:/5CF8D8B8:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R20:/5A3CFC80:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R19:/5A3CF54E:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "R18:/5A3973DC:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C22:/597561BE:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C35:/5A3C0893:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C34:/5A39D30A:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C33:/5A3891B1:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C32:/5A370871:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C31:/5A3781EA:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C30:/5D8BAC74:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C29:/5E2270E2:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C28:/5A492928:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C27:/5A491750:Capacitor_SMD:CP_Elec_5x5.9".
+Info: Checking netlist symbol footprint "C26:/5A4648EB:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C25:/5A424BBC:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C24:/59757F03:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C23:/5975ADED:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "3.3V1:/5CF8D8FD:Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit".
+Info: Checking netlist symbol footprint "C21:/5DE12444:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C20:/5A421143:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C19:/5CF8D8CA:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Info: Checking netlist symbol footprint "C18:/5E2CC96C:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C17:/5CF8D8C4:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C16:/589195C9:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C15:/58919576:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C14:/58919526:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C13:/589194D9:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C12:/5891948B:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C11:/58919444:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C10:/58919400:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C9:/589193B5:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C37:/5A3D17BB:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "30V1:/5AA73E47:Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit".
+Info: Checking netlist symbol footprint "5V1:/5D45954F:Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit".
+Info: Checking netlist symbol footprint "BOOT0:/5986C5EC:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "BOOT1:/5D4195F5:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "C1:/58918C37:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C2:/5891866D:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C3:/5CF8D8A0:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C4:/58918CD5:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "J1:/5CB943CB:custom_footprints:Wurth-632723300011-HandSoldering-Renum".
+Info: Checking netlist symbol footprint "D5:/5C0F6826:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder".
+Info: Checking netlist symbol footprint "C5:/58917D99:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "D4:/6097B693:digikey-footprints:SC-74".
+Info: Checking netlist symbol footprint "D3:/58920CAD:LED_THT:LED_D5.0mm".
+Info: Checking netlist symbol footprint "C6:/58917DD5:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C38:/5D90F353:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C36:/5A3C6A3E:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C39:/61796599:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C8:/58919377:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C40:/60F380C5:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C7:/58919245:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C50:/5AB3FE2F:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "C51:/5AB4B32D:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder".
+Info: Checking netlist symbol footprint "D1:/5A46EC2D:Diode_SMD:D_PowerDI-123".
+Info: Checking netlist symbol footprint "D2:/5A3BF3E9:Diode_SMD:D_PowerDI-123".
+Changing footprint U4 pad 53 net from  to Net-(U4-Pad53).
+Changing footprint U4 pad 55 net from  to Net-(U4-Pad55).
+Changing footprint U4 pad 56 net from  to Net-(U4-Pad56).
+Changing footprint U4 pad 88 net from  to Net-(U4-Pad88).
+Changing footprint U4 pad 50 net from  to Net-(U4-Pad50).
+Changing footprint U4 pad 57 net from  to Net-(U4-Pad57).
+Changing footprint U4 pad 58 net from  to Net-(U4-Pad58).
+Changing footprint U4 pad 59 net from  to Net-(U4-Pad59).
+Changing footprint U4 pad 60 net from  to Net-(U4-Pad60).
+Changing footprint U4 pad 70 net from  to Net-(U4-Pad70).
+Changing footprint U4 pad 73 net from  to Net-(U4-Pad73).
+Changing footprint U4 pad 74 net from  to Net-(U4-Pad74).
+Changing footprint U4 pad 79 net from  to Net-(U4-Pad79).
+Changing footprint U4 pad 80 net from  to Net-(U4-Pad80).
+Changing footprint U4 pad 81 net from  to Net-(U4-Pad81).
+Changing footprint U4 pad 82 net from  to Net-(U4-Pad82).
+Changing footprint U4 pad 83 net from  to Net-(U4-Pad83).
+Changing footprint U4 pad 84 net from  to Net-(U4-Pad84).
+Changing footprint U4 pad 87 net from  to Net-(U4-Pad87).
+Changing footprint U4 pad 4 net from  to Net-(U4-Pad4).
+Changing footprint U5 pad 6 net from  to Net-(U5-Pad6).
+Changing footprint U5 pad 15 net from  to Net-(U5-Pad15).
+Changing footprint U5 pad 13 net from  to Net-(U5-Pad13).
+Changing footprint U5 pad 4 net from  to Net-(U5-Pad4).
+Changing footprint U5 pad 2 net from  to Net-(U5-Pad2).
+Changing footprint J1 pad A10 net from  to Net-(J1-PadA10).
+Changing footprint U4 pad 1 net from  to Net-(U4-Pad1).
+Changing footprint U4 pad 2 net from  to Net-(U4-Pad2).
+Changing footprint U4 pad 3 net from  to Net-(U4-Pad3).
+Changing footprint U4 pad 47 net from  to /ADC2.
+Changing footprint U4 pad 5 net from  to Net-(U4-Pad5).
+Changing footprint U4 pad 7 net from  to Net-(U4-Pad7).
+Changing footprint U4 pad 8 net from  to Net-(U4-Pad8).
+Changing footprint U4 pad 9 net from  to Net-(U4-Pad9).
+Changing footprint U4 pad 10 net from  to Net-(U4-Pad10).
+Changing footprint U4 pad 22 net from  to Net-(U4-Pad22).
+Changing footprint U4 pad 44 net from  to Net-(U4-Pad44).
+Changing footprint U4 pad 45 net from  to Net-(U4-Pad45).
+Changing footprint SW1 pad 4 net from  to Net-(SW1-Pad4).
+Changing footprint U4 pad 124 net from  to Net-(U4-Pad124).
+Changing footprint U4 pad 125 net from  to Net-(U4-Pad125).
+Changing footprint U4 pad 126 net from  to Net-(U4-Pad126).
+Changing footprint U4 pad 133 net from  to Net-(U4-Pad133).
+Changing footprint U4 pad 134 net from  to Net-(U4-Pad134).
+Changing footprint U4 pad 135 net from  to Net-(U4-Pad135).
+Changing footprint U4 pad 136 net from  to Net-(U4-Pad136).
+Changing footprint U4 pad 137 net from  to Net-(U4-Pad137).
+Changing footprint U4 pad 139 net from  to Net-(U4-Pad139).
+Changing footprint U4 pad 140 net from  to Net-(U4-Pad140).
+Changing footprint SW1 pad 1 net from  to Net-(SW1-Pad1).
+Changing footprint U4 pad 90 net from  to Net-(U4-Pad90).
+Changing footprint P2 pad 6 net from  to Net-(P2-Pad6).
+Changing footprint J11 pad 2 net from  to CLK_OUT_1.
+Changing footprint J1 pad B11 net from  to Net-(J1-PadB11).
+Changing footprint J1 pad B10 net from  to Net-(J1-PadB10).
+Changing footprint J1 pad B8 net from  to Net-(J1-PadB8).
+Changing footprint J1 pad B3 net from  to Net-(J1-PadB3).
+Changing footprint J1 pad B2 net from  to Net-(J1-PadB2).
+Changing footprint J1 pad A2 net from  to Net-(J1-PadA2).
+Changing footprint J1 pad A3 net from  to Net-(J1-PadA3).
+Changing footprint J1 pad A8 net from  to Net-(J1-PadA8).
+Changing footprint J1 pad A11 net from  to Net-(J1-PadA11).
+Changing footprint U4 pad 103 net from  to Net-(U4-Pad103).
+Changing footprint U4 pad 92 net from  to Net-(U4-Pad92).
+Changing footprint U4 pad 93 net from  to Net-(U4-Pad93).
+Changing footprint U4 pad 96 net from  to Net-(U4-Pad96).
+Changing footprint U4 pad 97 net from  to Net-(U4-Pad97).
+Changing footprint U4 pad 98 net from  to Net-(U4-Pad98).
+Changing footprint U4 pad 99 net from  to Net-(U4-Pad99).
+Changing footprint U4 pad 91 net from  to Net-(U4-Pad91).
+Changing footprint U4 pad 101 net from  to Net-(U4-Pad101).
+Changing footprint U4 pad 89 net from  to Net-(U4-Pad89).
+Changing footprint U4 pad 102 net from  to Net-(U4-Pad102).
+Changing footprint U4 pad 123 net from  to Net-(U4-Pad123).
+Changing footprint U4 pad 104 net from  to Net-(U4-Pad104).
+Changing footprint U4 pad 110 net from  to Net-(U4-Pad110).
+Changing footprint U4 pad 111 net from  to Net-(U4-Pad111).
+Changing footprint U4 pad 112 net from  to Net-(U4-Pad112).
+Changing footprint U4 pad 113 net from  to Net-(U4-Pad113).
+Changing footprint U4 pad 114 net from  to Net-(U4-Pad114).
+Changing footprint U4 pad 115 net from  to Net-(U4-Pad115).
+Changing footprint U4 pad 116 net from  to Net-(U4-Pad116).
+Changing footprint U4 pad 118 net from  to Net-(U4-Pad118).
+Changing footprint U4 pad 119 net from  to Net-(U4-Pad119).
+Changing footprint U4 pad 122 net from  to Net-(U4-Pad122).
+Error: U6 footprint "TSSOP-8_4.4x3mm_Pitch0.65mm" not found in any libraries in the footprint library table.
+
+Error: R23 footprint "R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" not found in any libraries in the footprint library table.
+
+Error: U10 footprint "TSSOP-8_4.4x3mm_Pitch0.65mm" not found in any libraries in the footprint library table.
+
+Error: C40 footprint "C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" not found in any libraries in the footprint library table.
+
+Error: C39 footprint "C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" not found in any libraries in the footprint library table.
+
+Error: Cannot add new symbol U10 due to missing footprint Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm.
+Error: Cannot add new symbol D4 due to missing footprint digikey-footprints:SC-74.
+Error: Cannot add new symbol C40 due to missing footprint Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder.
+Error: Cannot add new symbol U6 due to missing footprint Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm.
+Error: Cannot add new symbol C39 due to missing footprint Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder.
+Error: D4 footprint "SC-74" not found in any libraries in the footprint library table.
+
+Error: Cannot add new symbol R23 due to missing footprint Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder.
